@@ -1,0 +1,52 @@
+# depslib dependency file v1.0
+1450357842 source:c:\users\sunnivran\desktop\studia\projekty\pp1\cbprojekt\projektipp\projekt.cpp
+	<iostream>
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	"conio2.h"
+
+1444132634 source:c:\users\sunnivran\desktop\studia\projekty\pp1\cbprojekt\projektipp\conio2.cpp
+	<stdio.h>
+	<malloc.h>
+	<string.h>
+	<windows.h>
+	"conio2.h"
+	<stdlib.h>
+
+1448556224 c:\users\sunnivran\desktop\studia\projekty\pp1\cbprojekt\projektipp\conio2.h
+
+1444136234 source:c:\users\sunnivran\desktop\studia\semestr i\projekty\pp1\cbprojekt\projektipp\conio2.cpp
+	<stdio.h>
+	<malloc.h>
+	<string.h>
+	<windows.h>
+	"conio2.h"
+	<stdlib.h>
+
+1448559824 c:\users\sunnivran\desktop\studia\semestr i\projekty\pp1\cbprojekt\projektipp\conio2.h
+
+1450372613 source:c:\users\sunnivran\desktop\studia\semestr i\projekty\pp1\cbprojekt\projektipp\projekt.cpp
+	<iostream>
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	"conio2.h"
+
+1444132634 source:c:\users\sunnivran\desktop\studia\semestr 1\projekty\pp1\cbprojekt\projektipp\conio2.cpp
+	<stdio.h>
+	<malloc.h>
+	<string.h>
+	<windows.h>
+	"conio2.h"
+	<stdlib.h>
+
+1448556224 c:\users\sunnivran\desktop\studia\semestr 1\projekty\pp1\cbprojekt\projektipp\conio2.h
+
+1450369013 source:c:\users\sunnivran\desktop\studia\semestr 1\projekty\pp1\cbprojekt\projektipp\projekt.cpp
+	<iostream>
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	"conio2.h"
+
